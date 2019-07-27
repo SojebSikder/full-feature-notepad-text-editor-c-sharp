@@ -1,0 +1,17 @@
+E:\my program\c#\a\SNote\SNote\bin\Debug\SNote.exe.config
+E:\my program\c#\a\SNote\SNote\bin\Debug\SNote.exe
+E:\my program\c#\a\SNote\SNote\bin\Debug\SNote.pdb
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.Form1.resources
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.Properties.Resources.resources
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.csproj.GenerateResource.Cache
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.exe
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.pdb
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.Find.resources
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.csprojResolveAssemblyReference.cache
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.toast.resources
+E:\my program\c#\a\SNote\SNote\bin\Debug\Tulpep.NotificationWindow.dll
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.bug.resources
+E:\my program\c#\a\SNote\SNote\obj\Debug\SNote.test.resources
+E:\my program\c#\a\SNote\SNote\bin\Debug\MetroFramework.Design.dll
+E:\my program\c#\a\SNote\SNote\bin\Debug\MetroFramework.dll
+E:\my program\c#\a\SNote\SNote\bin\Debug\MetroFramework.Fonts.dll

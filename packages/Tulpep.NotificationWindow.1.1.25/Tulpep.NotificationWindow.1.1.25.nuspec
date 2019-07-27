@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Tulpep.NotificationWindow</id>
+    <version>1.1.25</version>
+    <title>Notification Popup Window</title>
+    <authors>Simon Baer; Tulpep</authors>
+    <owners>Simon Baer; Tulpep</owners>
+    <licenseUrl>https://raw.githubusercontent.com/Tulpep/Notification-Popup-Window/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Tulpep/Notification-Popup-Window</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Notification Popup Window</description>
+    <summary>Notification Popup Window</summary>
+    <tags>WinForms Windows Forms NotificationWindow Notification Notifications Popup Popups</tags>
+  </metadata>
+</package>
